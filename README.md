@@ -60,13 +60,51 @@ Clique no projeto adicionado no Hub
 
 ⚠️ Não abra apenas a pasta Assets, sempre a raiz do projeto.
 
-# 💻 Editando Scripts no VS Code
-No Unity Editor, vá em Edit → Preferences → External Tools
+# Instalar o Rider (se ainda não tiver)
+Baixe o Rider: https://www.jetbrains.com/rider/download/
 
+Instale normalmente no Windows.
 
-Configure o External Script Editor para Visual Studio Code
+Se você tiver a licença, ative; existe versão de teste de 30 dias.
 
-Clique duas vezes em qualquer script .cs para abrir no VS Code
+# Configurar o Unity para usar o Rider
+
+Abra o Unity Editor.
+
+Vá em Edit → Preferences → External Tools.
+
+Em External Script Editor, clique e selecione Rider.
+
+Se Rider não aparecer na lista, escolha Browse… e selecione o executável do Rider (Rider64.exe).
+
+Marque as opções:
+
+Generate all .csproj files → garante que todos os scripts Unity apareçam no Rider
+
+Editor Attaching → habilita depuração pelo Rider
+
+# Abrir o projeto no Rider
+
+Abra o Rider.
+
+Clique em Open e selecione a pasta raiz do projeto Unity (rpg-frontend-unity).
+
+O Rider vai ler os arquivos .csproj e carregar todos os scripts.
+
+Não abra só Assets, abra sempre a raiz do projeto.
+
+# Configurar o debugger
+
+No Unity, vá em Edit → Preferences → External Tools → Editor Attaching → deve estar habilitado.
+
+No Rider, instale o plugin Unity Support (geralmente já vem incluído).
+
+Agora você consegue clicar em Attach to Unity Editor no Rider e depurar scripts C# enquanto o jogo roda no Editor.
+
+Opcional: desinstalar VS Code como editor externo
+No Unity, ainda em Preferences → External Tools, apenas selecione Rider como editor externo.
+
+Git/GitHub continua funcionando normalmente no terminal do Rider ou no terminal externo.
 
 # 🌐 Testando no Navegador (WebGL)
 Vá em File → Build Settings…
