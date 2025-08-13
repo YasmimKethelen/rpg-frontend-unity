@@ -35,8 +35,6 @@ Suporte WebGL marcado
 
 Versão exata em ProjectSettings/ProjectVersion.txt
 
-VS Code → https://code.visualstudio.com/
-
 # 📝 Clonando o Projeto
 
 ▶️ git clone https://github.com/seuusuario/rpg-frontend-unity.git
