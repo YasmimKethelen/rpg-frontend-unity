@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f3ebfdf-88d4-4fb9-80e8-7c049e1e7774" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Auth/AuthManager.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Auth/AuthManager.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Auth/ChangeUI.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Auth/ChangeUI.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/RegisterScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/RegisterScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-    </list>
+    <list default="true" id="7f3ebfdf-88d4-4fb9-80e8-7c049e1e7774" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,10 +12,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="SOFT" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Auth/AuthManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Core/Unity/SceneSingleton.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/yasmim.silva/Desktop/rpg-frontend-unity/ProjectSettings/EditorBuildSettings.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/yasmim.silva/Desktop/rpg-frontend-unity/ProjectSettings/EditorBuildSettings.asset" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/yasmim.silva/Desktop/rpg-frontend-unity/ProjectSettings/EditorBuildSettings.asset" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
@@ -110,7 +106,7 @@
       <option name="presentableId" value="Default" />
       <updated>1755116826470</updated>
       <workItem from="1755116831459" duration="66000" />
-      <workItem from="1755183997144" duration="13626000" />
+      <workItem from="1755183997144" duration="14350000" />
     </task>
     <task id="LOCAL-00001" summary="login funcionalidade play mode unity">
       <option name="closed" value="true" />
@@ -136,7 +132,23 @@
       <option name="project" value="LOCAL" />
       <updated>1755204418904</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="tela de login e registro funcional">
+      <option name="closed" value="true" />
+      <created>1755209565614</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1755209565614</updated>
+    </task>
+    <task id="LOCAL-00005" summary="login e registro funcional">
+      <option name="closed" value="true" />
+      <created>1755209618380</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1755209618380</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,7 +178,9 @@
     <MESSAGE value="login funcionalidade play mode unity" />
     <MESSAGE value="direcionamento funcionando mas se sobrepondo" />
     <MESSAGE value="pastas importantes" />
-    <option name="LAST_COMMIT_MESSAGE" value="pastas importantes" />
+    <MESSAGE value="tela de login e registro funcional" />
+    <MESSAGE value="login e registro funcional" />
+    <option name="LAST_COMMIT_MESSAGE" value="login e registro funcional" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
