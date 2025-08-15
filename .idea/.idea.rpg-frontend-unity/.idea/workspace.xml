@@ -5,88 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f3ebfdf-88d4-4fb9-80e8-7c049e1e7774" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.rpg-frontend-unity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.rpg-frontend-unity/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Animations.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Animations.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Animations/BlackContinueButton.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Animations/BlackContinueButton.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Animations/BlackContinueButton/BlackContinueButton.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Animations/BlackContinueButton/BlackContinueButton.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Animations/BlackContinueButton/BlackContinueButton.controller.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Animations/BlackContinueButton/BlackContinueButton.controller.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Animations/BlackOptionsButton.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Animations/BlackOptionsButton.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Animations/BlackOptionsButton/BlackOptionsButton.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Animations/BlackOptionsButton/BlackOptionsButton.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Animations/BlackOptionsButton/BlackOptionsButton.controller.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Animations/BlackOptionsButton/BlackOptionsButton.controller.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Animations/BlackPlayButton.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Animations/BlackPlayButton.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Animations/BlackPlayButton/BlackPlayButton.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Animations/BlackPlayButton/BlackPlayButton.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Animations/BlackPlayButton/BlackPlayButton.controller.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Animations/BlackPlayButton/BlackPlayButton.controller.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Animations/BlackQuitButton.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Animations/BlackQuitButton.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Animations/BlackQuitButton/BlackQuitButton.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Animations/BlackQuitButton/BlackQuitButton.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Animations/BlackQuitButton/BlackQuitButton.controller.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Animations/BlackQuitButton/BlackQuitButton.controller.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Graphics.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Graphics.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Graphics/ui-large-buttons-horizontal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Graphics/ui-large-buttons-horizontal.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Graphics/ui-large-buttons-vertical.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Graphics/ui-large-buttons-vertical.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Graphics/ui-panels.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Graphics/ui-panels.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Graphics/ui-small-buttons.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Graphics/ui-small-buttons.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Graphics/ui-small-icons.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Graphics/ui-small-icons.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/Canvas.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/Canvas.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/Canvas.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/Canvas.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/HorizontalButtons.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/HorizontalButtons.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/HorizontalButtons/BlackContinueButton.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/HorizontalButtons/BlackContinueButton.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/HorizontalButtons/BlackContinueButton.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/HorizontalButtons/BlackContinueButton.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/HorizontalButtons/BlackOptionsButton.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/HorizontalButtons/BlackOptionsButton.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/HorizontalButtons/BlackOptionsButton.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/HorizontalButtons/BlackOptionsButton.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/HorizontalButtons/BlackPlayButton.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/HorizontalButtons/BlackPlayButton.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/HorizontalButtons/BlackPlayButton.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/HorizontalButtons/BlackPlayButton.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/HorizontalButtons/BlackQuitButton.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/HorizontalButtons/BlackQuitButton.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/HorizontalButtons/BlackQuitButton.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/HorizontalButtons/BlackQuitButton.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/HorizontalButtons/HorizontalBlackButton.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/HorizontalButtons/HorizontalBlackButton.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/HorizontalButtons/HorizontalBlackButton.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/HorizontalButtons/HorizontalBlackButton.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/Main Camera.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/Main Camera.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/Main Camera.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/Main Camera.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/SmallButtons.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/SmallButtons.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/SmallButtons/LeftBlackButton.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/SmallButtons/LeftBlackButton.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/SmallButtons/LeftBlackButton.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/SmallButtons/LeftBlackButton.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/SmallButtons/PauseBlackButton.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/SmallButtons/PauseBlackButton.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/SmallButtons/PauseBlackButton.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/SmallButtons/PauseBlackButton.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/SmallButtons/RightBlackButton.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/SmallButtons/RightBlackButton.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/SmallButtons/RightBlackButton.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/SmallButtons/RightBlackButton.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/SmallButtons/SmallBlackHomeButton.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/SmallButtons/SmallBlackHomeButton.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/SmallButtons/SmallBlackHomeButton.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/SmallButtons/SmallBlackHomeButton.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/SmallButtons/SmallBlackPlayButton.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/SmallButtons/SmallBlackPlayButton.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/SmallButtons/SmallBlackPlayButton.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/SmallButtons/SmallBlackPlayButton.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/SmallButtons/SmallBlackSoundButton.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/SmallButtons/SmallBlackSoundButton.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/SmallButtons/SmallBlackSoundButton.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/SmallButtons/SmallBlackSoundButton.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/SmallButtons/SmallBlackStoreButton.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/SmallButtons/SmallBlackStoreButton.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/SmallButtons/SmallBlackStoreButton.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/SmallButtons/SmallBlackStoreButton.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/SmallButtons/UpBlackButton.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/SmallButtons/UpBlackButton.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/SmallButtons/UpBlackButton.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/SmallButtons/UpBlackButton.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/VerticalButtons.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/VerticalButtons.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/VerticalButtons/VerticalBlackButton.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/VerticalButtons/VerticalBlackButton.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/VerticalButtons/VerticalBlackButton.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/VerticalButtons/VerticalBlackButton.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/VerticalButtons/VerticalBlueButton.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/VerticalButtons/VerticalBlueButton.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/VerticalButtons/VerticalBlueButton.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/VerticalButtons/VerticalBlueButton.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/VerticalButtons/VerticalGreenButton.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/VerticalButtons/VerticalGreenButton.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/VerticalButtons/VerticalGreenButton.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/VerticalButtons/VerticalGreenButton.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/VerticalButtons/VerticalOrangeButton.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/VerticalButtons/VerticalOrangeButton.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/VerticalButtons/VerticalOrangeButton.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/VerticalButtons/VerticalOrangeButton.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/VerticalButtons/VerticalRedButton.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/VerticalButtons/VerticalRedButton.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/VerticalButtons/VerticalRedButton.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/VerticalButtons/VerticalRedButton.prefab.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Scenes.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Scenes.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Scenes/Level-Select-Example.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Scenes/Level-Select-Example.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Scenes/Level-Select-Example.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Scenes/Level-Select-Example.unity.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Scenes/Main-Menu-Example.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Scenes/Main-Menu-Example.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Scenes/Main-Menu-Example.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Scenes/Main-Menu-Example.unity.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Scenes/Mobile-Game-Example.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Scenes/Mobile-Game-Example.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Scenes/Mobile-Game-Example.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Examples/Scenes/Mobile-Game-Example.unity.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Sprites.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Sprites.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Sprites/ui-large-buttons-horizontal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Sprites/ui-large-buttons-horizontal.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Sprites/ui-large-buttons-vertical.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Sprites/ui-large-buttons-vertical.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Sprites/ui-panels.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Sprites/ui-panels.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Sprites/ui-small-buttons.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Sprites/ui-small-buttons.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Sprites/ui-small-icons.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OArielG/2DSimpleUIPack/Sprites/ui-small-icons.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UI/bgfixed.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/UI/logo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/AuthScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/AuthScene.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,9 +29,14 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/Users/yasmim.silva/Desktop/rpg-frontend-unity/Assets/Images/mainmenu.jpg.meta" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/yasmim.silva/Desktop/rpg-frontend-unity/Assets/OArielG/2DSimpleUIPack.meta" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/yasmim.silva/Desktop/rpg-frontend-unity/Assets/OArielG/2DSimpleUIPack/Examples/Animations/BlackContinueButton/BlackContinueButton.controller" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/Users/yasmim.silva/Desktop/rpg-frontend-unity/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/Canvas.prefab" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Auth/AuthManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/yasmim.silva/Desktop/rpg-frontend-unity/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/yasmim.silva/Desktop/rpg-frontend-unity/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/yasmim.silva/Desktop/rpg-frontend-unity/Assets/TextMesh Pro/Sprites/EmojiOne.png.meta" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Core/Unity/SceneSingleton.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
@@ -202,7 +126,7 @@
       <workItem from="1755116831459" duration="66000" />
       <workItem from="1755183997144" duration="14561000" />
       <workItem from="1755128064563" duration="2037000" />
-      <workItem from="1755269923180" duration="3844000" />
+      <workItem from="1755269923180" duration="4172000" />
     </task>
     <task id="LOCAL-00001" summary="login funcionalidade play mode unity">
       <option name="closed" value="true" />
@@ -260,7 +184,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755272330068</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Assets/2D\ Simple\ UI\ Pack">
+      <option name="closed" value="true" />
+      <created>1755274718608</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1755274718608</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -294,7 +226,8 @@
     <MESSAGE value="login e registro funcional" />
     <MESSAGE value="remover idea" />
     <MESSAGE value="MenuPrincipal Funcional" />
-    <option name="LAST_COMMIT_MESSAGE" value="MenuPrincipal Funcional" />
+    <MESSAGE value="Assets/2D\ Simple\ UI\ Pack" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assets/2D\ Simple\ UI\ Pack" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
