@@ -19,5 +19,11 @@ EditorBuildSettings:
     guid: 5276025e6d0b53949ac26c7ce32e9307
   - enabled: 1
     path: Assets/Scenes/MainMenu.unity
-    guid: c392650d399f26a48bee215e35b404dd
+    guid: 994439cf0da9f324487dd9c860dc78d3
+  - enabled: 0
+    path: Assets/Scenes/MainMenu.unity
+    guid: 994439cf0da9f324487dd9c860dc78d3
+  - enabled: 1
+    path: Assets/PrimeiraTelaJogo.unity
+    guid: 5e6a3d08115f9494cb0e83b7228c883c
   m_configObjects: {}
