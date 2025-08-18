@@ -11,7 +11,7 @@ namespace Menu
         [SerializeField] private GameObject painelOpcoes;
         public void Jogar()
         {
-            SceneManager.LoadScene("PrimeiraTelaJogo");
+            SceneManager.LoadScene("SaladeaulaScene");
         }
 
         public void AbrirOpcoes()
