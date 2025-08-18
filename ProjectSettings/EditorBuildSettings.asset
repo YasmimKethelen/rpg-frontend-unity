@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/PrimeiraTelaJogo.unity
     guid: 5e6a3d08115f9494cb0e83b7228c883c
+  - enabled: 1
+    path: Assets/Scenes/RankingScene.unity
+    guid: 9b6077596b82cfa43acab94c9ff945df
   m_configObjects: {}

@@ -9,7 +9,6 @@ namespace Menu
         //[SerializeField] private string nomeDoLevelDeJogo;
         [SerializeField] private GameObject painelMenuInicial;
         [SerializeField] private GameObject painelOpcoes;
-        
         public void Jogar()
         {
             SceneManager.LoadScene("PrimeiraTelaJogo");
@@ -30,6 +29,11 @@ namespace Menu
         public void SairDoJogo()
         {
             SceneManager.LoadScene("AuthScene");
+        }
+        
+        public void OpenRanking()
+        {
+            SceneManager.LoadScene("RankingScene");
         }
     }
 }

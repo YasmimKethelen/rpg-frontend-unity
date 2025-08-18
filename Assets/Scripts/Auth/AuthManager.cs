@@ -1,4 +1,5 @@
 ﻿using System.Collections;
+using Auth;
 using TMPro;
 using UnityEngine;
 using UnityEngine.Networking;
@@ -27,6 +28,7 @@ public class AuthManager : MonoBehaviour
         StartCoroutine(LoginRequest());
     }
 
+    // ReSharper disable Unity.PerformanceAnalysis
     IEnumerator LoginRequest()
     {
         WWWForm form = new WWWForm();
@@ -44,6 +46,10 @@ public class AuthManager : MonoBehaviour
 
             PlayerPrefs.SetString("jwt_token", resp.access);
             PlayerPrefs.Save();
+            
+            if(GameManager.Instance != null)
+                GameManager.Instance.accessToken = resp.access;
+
 
             SceneManager.LoadScene("MainMenu", LoadSceneMode.Single);
         }
@@ -59,6 +65,7 @@ public class AuthManager : MonoBehaviour
         public string access;
         public string refresh;
     }
+
     #endregion
 
     #region REGISTER
