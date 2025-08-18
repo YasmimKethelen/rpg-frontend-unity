@@ -5,18 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f3ebfdf-88d4-4fb9-80e8-7c049e1e7774" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Auth/GameManager.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Auth/GameManager.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Ranking.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Ranking/RankingManager.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Ranking/RankingManager.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/InGameManager.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/InGameManager/CutSceneManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/InGameManager/CutSceneManager.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.rpg-frontend-unity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.rpg-frontend-unity/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/AuthScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/AuthScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Auth/AuthManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Auth/AuthManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Menu/MenuPrincipalManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Menu/MenuPrincipalManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/PrimeiraTelaJogo.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/PrimeiraTelaJogo.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/RankingScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/RankingScene.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,15 +34,8 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock://C:/Users/yasmim.silva/Desktop/rpg-frontend-unity/Assets/Images/mainmenu.jpg.meta" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/yasmim.silva/Desktop/rpg-frontend-unity/Assets/OArielG/2DSimpleUIPack.meta" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/yasmim.silva/Desktop/rpg-frontend-unity/Assets/OArielG/2DSimpleUIPack/Examples/Animations/BlackContinueButton/BlackContinueButton.controller" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/yasmim.silva/Desktop/rpg-frontend-unity/Assets/OArielG/2DSimpleUIPack/Examples/Prefabs/Canvas.prefab" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/yasmim.silva/Desktop/rpg-frontend-unity/Assets/Scenes/AuthScene.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/yasmim.silva/Desktop/rpg-frontend-unity/Assets/Scripts/Auth/AuthManager.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Auth/AuthManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/yasmim.silva/Desktop/rpg-frontend-unity/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/yasmim.silva/Desktop/rpg-frontend-unity/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/yasmim.silva/Desktop/rpg-frontend-unity/Assets/TextMesh Pro/Sprites/EmojiOne.png.meta" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Core/Unity/SceneSingleton.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
@@ -139,7 +126,7 @@
       <workItem from="1755183997144" duration="14561000" />
       <workItem from="1755128064563" duration="2037000" />
       <workItem from="1755269923180" duration="8842000" />
-      <workItem from="1755529498625" duration="7768000" />
+      <workItem from="1755529498625" duration="9041000" />
     </task>
     <task id="LOCAL-00001" summary="login funcionalidade play mode unity">
       <option name="closed" value="true" />
@@ -221,7 +208,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755536990625</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="todas as pastas para funcionar ranking e movimentaçao do personagem">
+      <option name="closed" value="true" />
+      <created>1755543958677</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1755543958677</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,7 +253,8 @@
     <MESSAGE value="Assets/2D\ Simple\ UI\ Pack" />
     <MESSAGE value="LOGIN/REGISTRO/MENUINICIAL com imagens" />
     <MESSAGE value="managers sem os assets do pacote" />
-    <option name="LAST_COMMIT_MESSAGE" value="managers sem os assets do pacote" />
+    <MESSAGE value="todas as pastas para funcionar ranking e movimentaçao do personagem" />
+    <option name="LAST_COMMIT_MESSAGE" value="todas as pastas para funcionar ranking e movimentaçao do personagem" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
