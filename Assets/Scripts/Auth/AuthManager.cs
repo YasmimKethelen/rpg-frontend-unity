@@ -1,106 +1,108 @@
 ﻿using System.Collections;
-using Auth;
 using TMPro;
 using UnityEngine;
 using UnityEngine.Networking;
 using UnityEngine.SceneManagement;
 
-public class AuthManager : MonoBehaviour
+namespace Auth
 {
-    [Header("Login Inputs")]
-    public TMP_InputField loginUsername;
-    public TMP_InputField loginPassword;
-    public TMP_Text loginMessage;
-
-    [Header("Register Inputs")]
-    public TMP_InputField registerUsername;
-    public TMP_InputField registerEmail;
-    public TMP_InputField registerPassword;
-    public TMP_InputField registerConfirmPassword;
-    public TMP_Text registerMessage;
-
-    private string loginUrl = "http://127.0.0.1:8000/api/auth/login/";
-    private string registerUrl = "http://127.0.0.1:8000/api/auth/register/";
-
-    #region LOGIN
-    public void OnLoginButton()
+    public class AuthManager : MonoBehaviour
     {
-        StartCoroutine(LoginRequest());
-    }
+        [Header("Login Inputs")]
+        public TMP_InputField loginUsername;
+        public TMP_InputField loginPassword;
+        public TMP_Text loginMessage;
 
-    // ReSharper disable Unity.PerformanceAnalysis
-    IEnumerator LoginRequest()
-    {
-        WWWForm form = new WWWForm();
-        form.AddField("username", loginUsername.text);
-        form.AddField("password", loginPassword.text);
+        [Header("Register Inputs")]
+        public TMP_InputField registerUsername;
+        public TMP_InputField registerEmail;
+        public TMP_InputField registerPassword;
+        public TMP_InputField registerConfirmPassword;
+        public TMP_Text registerMessage;
 
-        UnityWebRequest www = UnityWebRequest.Post(loginUrl, form);
-        yield return www.SendWebRequest();
+        private string loginUrl = "http://127.0.0.1:8000/api/auth/login/";
+        private string registerUrl = "http://127.0.0.1:8000/api/auth/register/";
 
-        if (www.result == UnityWebRequest.Result.Success)
+        #region LOGIN
+        public void OnLoginButton()
         {
-            loginMessage.text = "Login realizado!";
-            var json = www.downloadHandler.text;
-            LoginResponse resp = JsonUtility.FromJson<LoginResponse>(json);
+            StartCoroutine(LoginRequest());
+        }
 
-            PlayerPrefs.SetString("jwt_token", resp.access);
-            PlayerPrefs.Save();
+        // ReSharper disable Unity.PerformanceAnalysis
+        IEnumerator LoginRequest()
+        {
+            WWWForm form = new WWWForm();
+            form.AddField("username", loginUsername.text);
+            form.AddField("password", loginPassword.text);
+
+            UnityWebRequest www = UnityWebRequest.Post(loginUrl, form);
+            yield return www.SendWebRequest();
+
+            if (www.result == UnityWebRequest.Result.Success)
+            {
+                loginMessage.text = "Login realizado!";
+                var json = www.downloadHandler.text;
+                LoginResponse resp = JsonUtility.FromJson<LoginResponse>(json);
+
+                PlayerPrefs.SetString("jwt_token", resp.access);
+                PlayerPrefs.Save();
             
-            if(GameManager.Instance != null)
-                GameManager.Instance.accessToken = resp.access;
+                if(GameManager.Instance != null)
+                    GameManager.Instance.accessToken = resp.access;
 
 
-            SceneManager.LoadScene("MainMenu", LoadSceneMode.Single);
+                SceneManager.LoadScene("MainMenu", LoadSceneMode.Single);
+            }
+            else
+            {
+                loginMessage.text = $"Erro: {www.downloadHandler.text}";
+            }
         }
-        else
+
+        [System.Serializable]
+        public class LoginResponse
         {
-            loginMessage.text = $"Erro: {www.downloadHandler.text}";
+            public string access;
+            public string refresh;
         }
-    }
 
-    [System.Serializable]
-    public class LoginResponse
-    {
-        public string access;
-        public string refresh;
-    }
+        #endregion
 
-    #endregion
-
-    #region REGISTER
-    public void OnRegisterButton()
-    {
-        if (registerPassword.text != registerConfirmPassword.text)
+        #region REGISTER
+        public void OnRegisterButton()
         {
-            registerMessage.text = "Senhas não conferem!";
-            return;
+            if (registerPassword.text != registerConfirmPassword.text)
+            {
+                registerMessage.text = "Senhas não conferem!";
+                return;
+            }
+
+            StartCoroutine(RegisterRequest());
         }
 
-        StartCoroutine(RegisterRequest());
-    }
-
-    IEnumerator RegisterRequest()
-    {
-        WWWForm form = new WWWForm();
-        form.AddField("username", registerUsername.text);
-        form.AddField("email", registerEmail.text);
-        form.AddField("password", registerPassword.text);
-
-        UnityWebRequest www = UnityWebRequest.Post(registerUrl, form);
-        yield return www.SendWebRequest();
-
-        if (www.result == UnityWebRequest.Result.Success)
+        IEnumerator RegisterRequest()
         {
-            registerMessage.text = "Cadastro realizado!";
-            yield return new WaitForSeconds(0.5f); // pequena pausa
-            ChangeUI.instance.SwitchScreen(); // volta para login
+            WWWForm form = new WWWForm();
+            form.AddField("username", registerUsername.text);
+            form.AddField("email", registerEmail.text);
+            form.AddField("password", registerPassword.text);
+
+            UnityWebRequest www = UnityWebRequest.Post(registerUrl, form);
+            yield return www.SendWebRequest();
+
+            if (www.result == UnityWebRequest.Result.Success)
+            {
+                registerMessage.text = "Cadastro realizado!";
+                yield return new WaitForSeconds(0.5f); // pequena pausa
+                ChangeUI.instance.SwitchScreen(); // volta para login
+            }
+            else
+            {
+                registerMessage.text = $"Erro: {www.downloadHandler.text}";
+            }
         }
-        else
-        {
-            registerMessage.text = $"Erro: {www.downloadHandler.text}";
-        }
+        #endregion
     }
-    #endregion
 }
 
