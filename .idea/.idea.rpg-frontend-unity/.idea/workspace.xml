@@ -222,7 +222,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755558871146</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="removendo tudo que n presta">
+      <option name="closed" value="true" />
+      <created>1755559130143</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1755559130143</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,7 +269,8 @@
     <MESSAGE value="managers sem os assets do pacote" />
     <MESSAGE value="todas as pastas para funcionar ranking e movimentaçao do personagem" />
     <MESSAGE value="tela funcionando sala de aula dialogo passando" />
-    <option name="LAST_COMMIT_MESSAGE" value="tela funcionando sala de aula dialogo passando" />
+    <MESSAGE value="removendo tudo que n presta" />
+    <option name="LAST_COMMIT_MESSAGE" value="removendo tudo que n presta" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
