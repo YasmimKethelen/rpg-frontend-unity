@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2369ad3-c980-4cb4-a763-93e3a4e810b9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.rpg-frontend-unity/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.rpg-frontend-unity/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.rpg-frontend-unity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.rpg-frontend-unity/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b2369ad3-c980-4cb4-a763-93e3a4e810b9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,21 +13,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "YasmimKethelen"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;YasmimKethelen&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/YasmimKethelen/rpg-frontend-unity.git",
-    "accountId": "ac01078b-e445-4fbe-9713-cc2d15269840"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/YasmimKethelen/rpg-frontend-unity.git&quot;,
+    &quot;accountId&quot;: &quot;ac01078b-e445-4fbe-9713-cc2d15269840&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+}</component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="31TsFXAUSnEftXN2FRXTZnLelXI" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -42,6 +40,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/yasmim.silva/Desktop/rpg-frontend-unity",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -59,12 +58,23 @@
       <option name="presentableId" value="Default" />
       <updated>1755559293815</updated>
       <workItem from="1755559294933" duration="901000" />
+      <workItem from="1755617433601" duration="310000" />
     </task>
+    <task id="LOCAL-00001" summary="images project">
+      <option name="closed" value="true" />
+      <created>1755617696215</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1755617696215</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityProjectDiscoverer">
     <option name="unityProjectFolder" value="true" />
@@ -82,6 +92,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="images project" />
+    <option name="LAST_COMMIT_MESSAGE" value="images project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

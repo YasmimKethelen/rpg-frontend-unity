@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f3ebfdf-88d4-4fb9-80e8-7c049e1e7774" name="Changes" comment="" />
+    <list default="true" id="7f3ebfdf-88d4-4fb9-80e8-7c049e1e7774" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.rpg-frontend-unity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.rpg-frontend-unity/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,10 +31,12 @@
 }</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="mock://C:/Users/yasmim.silva/Desktop/rpg-frontend-unity/Assets/Scenes/AuthScene.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/yasmim.silva/Desktop/rpg-frontend-unity/Assets/Scenes/MainMenu.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/yasmim.silva/Desktop/rpg-frontend-unity/Assets/Scenes/RankingScene.unity" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Auth/AuthManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/yasmim.silva/Desktop/rpg-frontend-unity/Assets/Sprites/Cainos/Pixel Art Top Down - Basic/Animation/AC Player.controller.meta" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/yasmim.silva/Desktop/rpg-frontend-unity/Assets/Sprites/Cainos/Pixel Art Top Down - Basic/Animation/AC Player.controller.meta" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/yasmim.silva/Desktop/rpg-frontend-unity/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Core/Unity/SceneSingleton.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/yasmim.silva/Desktop/rpg-frontend-unity/ProjectSettings/EditorBuildSettings.asset" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProblemsViewState">
@@ -125,6 +130,8 @@
       <workItem from="1755128064563" duration="2037000" />
       <workItem from="1755269923180" duration="8842000" />
       <workItem from="1755529498625" duration="9041000" />
+      <workItem from="1755617864814" duration="4013000" />
+      <workItem from="1755628212933" duration="2000" />
     </task>
     <task id="LOCAL-00001" summary="login funcionalidade play mode unity">
       <option name="closed" value="true" />
@@ -230,7 +237,31 @@
       <option name="project" value="LOCAL" />
       <updated>1755559130143</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="tela login e registro definitiva">
+      <option name="closed" value="true" />
+      <created>1755626157023</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1755626157023</updated>
+    </task>
+    <task id="LOCAL-00015" summary="login e registro atualizaçao">
+      <option name="closed" value="true" />
+      <created>1755627200439</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1755627200439</updated>
+    </task>
+    <task id="LOCAL-00016" summary="ranking cena melhorado">
+      <option name="closed" value="true" />
+      <created>1755627920305</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1755627920305</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,7 +301,10 @@
     <MESSAGE value="todas as pastas para funcionar ranking e movimentaçao do personagem" />
     <MESSAGE value="tela funcionando sala de aula dialogo passando" />
     <MESSAGE value="removendo tudo que n presta" />
-    <option name="LAST_COMMIT_MESSAGE" value="removendo tudo que n presta" />
+    <MESSAGE value="tela login e registro definitiva" />
+    <MESSAGE value="login e registro atualizaçao" />
+    <MESSAGE value="ranking cena melhorado" />
+    <option name="LAST_COMMIT_MESSAGE" value="ranking cena melhorado" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
